@@ -28,3 +28,9 @@ From an Android phone:
 3. Make sure your GPS is on
 
 4. Select the network protocol you would like your location to be sent
+
+## Demonstration
+
+As part of the project, I recorded a video in spanish that shows the servers working together with the Android client. The link is below:
+
+https://www.youtube.com/watch?v=h3GeS5G77OY
